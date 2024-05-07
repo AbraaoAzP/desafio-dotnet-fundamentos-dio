@@ -12,3 +12,4 @@ C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos
 C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\DesafioFundamentosDOTNET.pdb
 C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\DesafioFundamentosDOTNET.genruntimeconfig.cache
 C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\ref\DesafioFundamentosDOTNET.dll
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\DesafioFundamentosDOTNET.sourcelink.json

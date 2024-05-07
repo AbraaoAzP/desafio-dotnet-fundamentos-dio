@@ -69,15 +69,15 @@ namespace DesafioFundamentosDOTNET.Models
             {
                 Console.WriteLine("Os veículos estacionados são:");
 
-                // for(int contador = 0; contador < veiculos.Count; contador++)
-                // {
-                //     Console.WriteLine(veiculos[contador]);
-                // }
-
-                foreach(string item in veiculos)
+                for(int contador = 0; contador < veiculos.Count; contador++)
                 {
-                    Console.WriteLine(item);
+                    Console.WriteLine(veiculos[contador]);
                 }
+
+                // foreach(string item in veiculos)
+                // {
+                //     Console.WriteLine(item);
+                // }
             }
             else
             {

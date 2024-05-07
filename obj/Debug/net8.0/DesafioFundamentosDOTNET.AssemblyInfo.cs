@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioFundamentosDOTNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c5234b0d8abbd0106a7030334e220e96d8f62bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba026effdd8d20cc26b0d706845bc7f5ce137d29")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioFundamentosDOTNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioFundamentosDOTNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
