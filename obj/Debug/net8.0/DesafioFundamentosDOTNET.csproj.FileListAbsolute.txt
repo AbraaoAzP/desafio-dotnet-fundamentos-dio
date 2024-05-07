@@ -1,0 +1,14 @@
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\bin\Debug\net8.0\DesafioFundamentosDOTNET.exe
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\bin\Debug\net8.0\DesafioFundamentosDOTNET.deps.json
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\bin\Debug\net8.0\DesafioFundamentosDOTNET.runtimeconfig.json
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\bin\Debug\net8.0\DesafioFundamentosDOTNET.dll
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\bin\Debug\net8.0\DesafioFundamentosDOTNET.pdb
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\DesafioFundamentosDOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\DesafioFundamentosDOTNET.AssemblyInfoInputs.cache
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\DesafioFundamentosDOTNET.AssemblyInfo.cs
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\DesafioFundamentosDOTNET.csproj.CoreCompileInputs.cache
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\DesafioFundamentosDOTNET.dll
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\refint\DesafioFundamentosDOTNET.dll
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\DesafioFundamentosDOTNET.pdb
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\DesafioFundamentosDOTNET.genruntimeconfig.cache
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioFundamentosDOTNET\obj\Debug\net8.0\ref\DesafioFundamentosDOTNET.dll
